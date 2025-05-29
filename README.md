@@ -22,7 +22,7 @@ TicTacToeNetwork/
 │       ├── TicTacToeServer.java  # Server logic
 │       ├── TicTacToeGUI.java     # GUI implementation
 ├── README.md
-└── LICENSE (optional)
+└── LICENSE 
 
 
 ## Setup Instructions
